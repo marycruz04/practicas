@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MCJE-2022-1</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="no">Primer actividad</string>
+    <string name="BotonAnterior">Siguiente</string>
+    <string name="noo">Segunda actividad</string>
+    <string name="BotonAn">Siguiente</string>
+    <string name="nooo">Tercera actividad</string>
+    <string name="BotonAnn">Regresar</string>
+</resources>
