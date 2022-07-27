@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MCJE-2022-2</string>
+    <string name="indice_de_masa_corporal">INDICE DE MASA CORPORAL</string>
+    <string name="en_kilogramos">en kilogramos</string>
+    <string name="peso">Peso:</string>
+    <string name="eliminar_datos">Eliminar datos</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="peso_ideal">Peso ideal:</string>
+    <string name="todo">TODO</string>
+    <string name="imc">IMC:</string>
+    <string name="en_metros">en metros</string>
+    <string name="altura">Altura:</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="IMC">IMC</string>
+</resources>
